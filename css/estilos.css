@@ -13,11 +13,11 @@ body {
 
 h1 {
     font-size: 5rem;
-    font-weight: 7rem;
+    font-weight: 2rem;
 }
 
 .brd {
-    border: 2px solid black;
+    border: 1rem solid white;
     margin: 15%;
 }
 
